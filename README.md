@@ -17,14 +17,14 @@
 
 ## Project Documentation
 
-- Here is the [link]() to my Zoom video
+- Here is the [link](https://www.loom.com/share/4daf8af6183943ac8c1262cdf0654d80) to my Zoom video
 ## Website Mockup 📱 💻 🖥️
 ![screenshot](https://user-images.githubusercontent.com/106140591/183017905-fa73b21d-936d-4ba7-bb4c-5bd0c49db748.png)
 ![screenshot](https://user-images.githubusercontent.com/106140591/183018381-7fc2062a-fd2b-4419-a30e-ea5ace4e8d78.png)
 
 ## Live Demo
 
-[Capstone Project I : Zambia Mathematical Science Association Conference]()
+[Capstone Project I : Zambia Mathematical Science Association Conference](https://sonickmumba.github.io/Capstone-Project-1/)
 
 
 ## Authors
