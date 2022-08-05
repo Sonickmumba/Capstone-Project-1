@@ -220,6 +220,7 @@ body.show {
   height: 520px;
   width: 100%;
   background-color: var(--color-whitesmoke);
+  background-image: url('./images/mobile-version-bg.png');
 }
 
 .advert-page.show {
@@ -245,6 +246,10 @@ body.show {
   font-family: var(--ff-cocogoose);
   color: var(--color-red);
   font-size: 2.3rem;
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  color: transparent;
+  background-image: url('./images/about_2013_cleanup.png');
 }
 
 .message {
@@ -367,7 +372,7 @@ body.show {
 }
 
 .main-program1 {
-  color: var(--color-black);
+  color: var(--color-darkgrey);
   text-align: center;
   font-family: var(--ff-lato);
   font-size: 1rem;
@@ -426,9 +431,11 @@ body.show {
 /* partners section */
 .zamsa-partners {
   width: 100%;
-  background-color: var(--color-white);
+  background-color: #090a0b;
   padding-top: 2em;
   border-top: 1px solid var(--color-lightgrey);
+  /* -webkit-background-clip: text; */
+  color: transparent;
 }
 
 .zamsa-partners .line {
@@ -451,7 +458,7 @@ body.show {
   justify-content: center;
   align-items: center;
   gap: 16px;
-  background-color: black;
+  background-color: var(--color-white);
   margin: 0 auto;
 }
 
@@ -465,7 +472,7 @@ body.show {
 .footer-message p,
 .footer-message span,
 .footer-logo h2 {
-  color: var(--color-whitesmoke);
+  color: var(--color-darkgrey);
   font-family: var(--ff-lato);
   font-size: 0.95rem;
   text-align: left;
@@ -509,6 +516,7 @@ body.show {
 
   .advert-page {
     height: 680px;
+    background-image: url('./images/main_big.png');
   }
 
   .advert {
