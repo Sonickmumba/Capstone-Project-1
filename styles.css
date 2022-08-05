@@ -244,7 +244,6 @@ body.show {
 
 .advert {
   font-family: var(--ff-cocogoose);
-  color: var(--color-red);
   font-size: 2.3rem;
   background-clip: border-box;
   -webkit-background-clip: text;
