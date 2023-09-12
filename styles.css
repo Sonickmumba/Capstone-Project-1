@@ -331,7 +331,7 @@ body.show {
   background-color: rgba(255, 255, 255, 0.1);
   cursor: pointer;
   transition: outline 0.15s ease-in-out;
-  height: 90px;
+  /* height: 120px; */
 }
 
 .program-card h3 {
@@ -350,6 +350,9 @@ body.show {
   font-family: var(--ff-lato);
   color: var(--color-lightgrey);
   flex: 3;
+  font-size: 12px;
+  margin-bottom: 0;
+  text-align: start;
 }
 
 .program-card:hover {
