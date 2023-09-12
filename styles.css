@@ -218,7 +218,7 @@ body.show {
 
 /* main section */
 .advert-page {
-  height: 520px;
+  height: 650px;
   width: 100%;
   background-color: var(--color-whitesmoke);
   background-image: url('./images/mobile-version-bg.png');
@@ -245,11 +245,12 @@ body.show {
 
 .advert {
   font-family: var(--ff-cocogoose);
-  font-size: 2.3rem;
+  font-size: 2rem;
   background-clip: border-box;
   -webkit-background-clip: text;
   color: transparent;
   background-image: url('./images/about_2013_cleanup.png');
+  margin-bottom: 0;
 }
 
 .message {
